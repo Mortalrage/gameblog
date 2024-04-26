@@ -18,6 +18,7 @@ The slow-motion mechanics add an extra layer of intensity, allowing you to witne
 
 Visually, the Superhot mobile is a striking masterpiece. The minimalist polygon art style joined with the red, white, and blue scheme, creates a visually attractive world that feels both futuristic and retro a time.    
 Graphics while shooting and hitting players are visually stunning. The breaking movements of enemies have and yellowish shade for foreshadowing that the enemies are dead.
+{{< youtube id="rRsP52AGSiA" autoplay="true" >}}
 
 ## Cons
 
